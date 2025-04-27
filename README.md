@@ -1,4 +1,4 @@
-# Simple Client-Server Project
+# Client-Server Project
 
 ## Overview
 
